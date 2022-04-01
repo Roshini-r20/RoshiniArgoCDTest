@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL:  https://git.betsol.com/Roshini.Ravi/roshiniargocdtest.git
+    repoURL:  https://github.com/Roshini-r20/RoshiniArgoCDTest.git
     targetRevision: HEAD
     path: dev
   destination: 
